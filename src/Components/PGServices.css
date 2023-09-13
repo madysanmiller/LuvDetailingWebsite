@@ -1,0 +1,101 @@
+
+.servicePage{
+    color: aliceblue;
+    text-align: center;
+    margin: 2%;
+    
+    
+}
+
+
+.serviceHeader {
+
+    font-size: 4rem;
+}
+
+
+.serviceHeader >h1 {
+
+    font-size: 5rem;
+}
+
+.serviceHeader > h2{
+    font-size: 3rem;
+   
+} 
+
+
+
+.ServiceFlex {
+    display: flex;
+    justify-content: space-evenly;
+    
+   
+}
+
+
+.Basic{
+    background-color: #242424;
+}
+
+  .Basic > .Pricing {
+    margin: 2%;
+    font-size: 2rem;
+    border: 5px;
+    border-radius: 5px;
+    border-color: aliceblue;
+    
+}
+
+.Basic > h2 {
+    margin: 2%;
+    font-size: 3rem;
+    
+
+}
+
+.Basic > h3 {
+    margin: 2%;
+    font-size: 2rem;
+    
+
+}
+
+.Basic > h3 > div {
+    margin: 3%;
+    font-size: 2rem;
+    
+
+}
+
+.Full{
+    background-color: #242424;
+}
+
+
+ .Full > h2{
+    font-size: 3rem;
+    margin: 2%;
+}
+
+.Full > h3{
+    font-size: 2rem;
+    margin: 2%;
+}
+
+.Full > h3 > div{
+    margin: 3%;
+    font-size: 2rem;
+}
+
+
+.Full > .Pricing{
+    margin: 2%;
+    font-size: 2rem;
+    border-radius: 5px;
+    border-color: aliceblue;
+}
+
+.Qutoes{
+    font-size: 2rem;
+}
